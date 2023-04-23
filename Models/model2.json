@@ -1,0 +1,10 @@
+{"modelId" : "2", "modelName" : "Restaurant Review Web App",
+ "goal" : "People can use this app to review restaurants",
+ "description" : "A application that is a platform of reviewing restaurants", 
+ "stakeHolders" : {"number" : 2, "names" : "Guests, User"},
+ "epics" : 
+{"number" : 4,
+ "names": "Veiw Reviews, Post Reviews, Edit Reviews, Search Reviews",
+"emotionalGoals" : "Appealing Engaging, Easy-to-use, Pleasant, Efficent Responsive, Realiable Enriched"},
+ "treeNodes" : "None"
+}

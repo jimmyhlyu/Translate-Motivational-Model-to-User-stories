@@ -1,10 +1,10 @@
 {"modelId" : "1", "modelName" : "I got you!",
- "Goal" : "Handel intruders and protect owner's property",
- "Description" : "A product that is detecting for any intruders, and noticed partys if detected.", 
- "StakeHolders" : {"number" : 4, "names" : "security manager, visitor, police, place owner, intruder"},
- "Epics" : 
+ "goal" : "Handel intruders and protect owner's property",
+ "description" : "A product that is detecting for any intruders, and noticed partys if detected.", 
+ "stakeHolders" : {"number" : 4, "names" : "security manager, visitor, police, place owner, intruder"},
+ "epics" : 
 {"number" : 3,
  "names": "Detect Intruder, Notify Stakeholder, Response to intrusion",
-"Emotional Goads" : "Accuate, Safe, Timely"},
- "TreeNodes" : "inform police, inform visitors, inform owner"
+"emotionalGoals" : "Accuate, Safe, Timely"},
+ "treeNodes" : "inform police, inform visitors, inform owner"
 }

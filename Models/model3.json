@@ -1,0 +1,10 @@
+{"modelId" : "3", "modelName" : "Learning Algorithm Platform",
+ "goal" : "People can use this Platform to Learn Algorithms",
+ "description" : "A online learning Platform of algorithms", 
+ "stakeHolders" : {"number" : 1, "names" : "Students"},
+ "epics" : 
+{"number" : 2,
+ "names": "Solve the problems, Browse algorithms",
+"emotionalGoals" : "User-friendly ,Focused, Fun, Practical, Engaged, Challenged, Encouraged, Approachable to non-coders, Accomplished, Fair Constructive"},
+ "treeNodes" : "Construct the solution, Submit the solution, Get feedback, Ask for help, Preview the algorithms animation, Read algorithm specs and problems" 
+}
