@@ -1,12 +1,3 @@
-'modelName' : data['modelName'], 'modelId' : data['modelId'],\
-            'goal' : data['goal'], 'description' : data['description'],\
-            'numStakeHolders' : data['stakeHolders']['number'],\
-            'namesStakeHolder' : data['stakeHolders']['names'],\
-            'treeNodes' : data['treeNodes'],\
-            'numEpic' : data['epics']['number'],\
-            'namesEpic' : data['epics']['names'],\
-            'emotionalGoals' : data['epics']['emotionalGoals']\
-            }
 Create user stoires from this motivational model:
 
 Name of project: {modelName}
@@ -17,6 +8,7 @@ emotional goals: {emotionalGoals}
 
 Organize your answer with following template:
 
+Model<name> 
 Epic<number>:<name>
 <stakeholder>:
-    <list of users stories>
+    <list of users stories
