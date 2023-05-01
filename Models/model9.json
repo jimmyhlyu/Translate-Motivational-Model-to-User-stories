@@ -1,10 +1,10 @@
-{"modelId" : "10", "modelName" : "Folder manage",
- "goal" : "Manage file and folders",
- "description" : "a tool that let user to manage their file", 
- "stakeHolders" : {"number" : 1, "names" : "Normal User"},
+{"modelId" : "9", "modelName" : "FriendShip tracker",
+ "goal" : "Track friendships for user",
+ "description" : "a web that let user to track and evaluate their friendship", 
+ "stakeHolders" : {"number" : 3, "names" : " User, Admin, Despair User"},
  "epics" : 
-{"number" : 1,
- "names": "Upload my files to the folder",
-"emotionalGoals" : "Fast Easy, Joyful, Relaxed"},
+{"number" : 4,
+ "names": "Delete account erase all file of account, backup data, focus on util, can manage firendship efftively, Tracking friend",
+"emotionalGoals" : "Safe, realible, focus, effective"},
  "treeNodes" : "None" 
 }

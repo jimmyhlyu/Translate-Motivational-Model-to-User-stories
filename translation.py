@@ -9,11 +9,14 @@ openai.api_key = key
 dataList = []
 
 for dataName in os.listdir("Models/"):
+    if(not dataName.endswith('.json')):
+        continue
+    print(dataName)
     fileName = "%s/%s" % ("Models", dataName)
     with open(fileName, 'r') as f:
         data = json.load(f)
         dataList.append(data)
-
+    
 print("Reading Prompt from <ExamplePrompt.txt>")
 with open('ExamplePrompt.txt', 'r') as f:
     user_input = f.read()
