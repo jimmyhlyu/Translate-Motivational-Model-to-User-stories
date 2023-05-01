@@ -1,0 +1,10 @@
+{"modelId" : "10", "modelName" : "Folder manage",
+ "goal" : "Manage file and folders",
+ "description" : "a tool that let user to manage their file", 
+ "stakeHolders" : {"number" : 1, "names" : "Normal User"},
+ "epics" : 
+{"number" : 1,
+ "names": "Upload my files to the folder",
+"emotionalGoals" : "Fast Easy, Joyful, Relaxed"},
+ "treeNodes" : "None" 
+}

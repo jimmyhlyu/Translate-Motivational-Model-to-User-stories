@@ -1,0 +1,10 @@
+{"modelId" : "8", "modelName" : "Bird website",
+ "goal" : "Record birds activites",
+ "description" : "a website that gathers and summariess bird activities", 
+ "stakeHolders" : {"number" : 2, "names" : "Client, Website Viewer"},
+ "epics" : 
+{"number" : 2,
+ "names": "Update new data, view the website",
+"emotionalGoals" : "Easy to maintain, up-to-date, convenient, well-oriented, curious, attractive"},
+ "treeNodes" : "Adding new location with data of birds, edit existing data, adding note of experience, view the introduction, view the map of location, drag the map around, view list of birds of that location, hear the birds sound" 
+}

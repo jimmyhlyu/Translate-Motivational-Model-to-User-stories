@@ -1,0 +1,10 @@
+{"modelId" : "4", "modelName" : "Workout Application",
+ "goal" : "People can use this application to construct their workout plan",
+ "description" : "A online application of workout plans", 
+ "stakeHolders" : {"number" :3, "names" : "Adminstrators Gym-goers, Adminstrators, Gym-goers"},
+ "epics" : 
+{"number" : 5,
+ "names": "Creating exercises, Creating workout plans, Viewing exercises and workout plans, Saving exercises and workout plans, Publising exercises and workout plans",
+"emotionalGoals" : "Robust Straightforward , Informative, Ogranised"},
+ "treeNodes" : "None" 
+}

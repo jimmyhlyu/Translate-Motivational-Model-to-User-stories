@@ -1,0 +1,10 @@
+{"modelId" : "6", "modelName" : "Algorithms in Actions",
+ "goal" : "To make student learn platform online",
+ "description" : "A online platform of Algorithms learning", 
+ "stakeHolders" : {"number" : 3, "names" : "First-time student, Other student, Professor"},
+ "epics" : 
+{"number" : 3,
+ "names": "Study algorithm, Recap Algorithm, Manage System",
+"emotionalGoals" : " Fun,Effective,Empowering,Engaging,Challenged,Effective"},
+ "treeNodes" : "Stepping through pseudocode of different algorithms,Watch visual presentation of changes according to the current step,Pause to read explanations,Expand/Collapse pseudocode to revise specific parts of the algorithms,Change input parameters,Click a line of pseudocode to show explanations,Adjust speed to quickly go through easy algorithms,Take a quiz,Add more algorithms and inputs,Review usage tags,Maintain the system,Admin and user controls" 
+}

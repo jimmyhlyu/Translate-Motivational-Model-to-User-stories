@@ -1,0 +1,10 @@
+{"modelId" : "7", "modelName" : "System that gathers and summariess Software Engineering project activities",
+ "goal" : "gather and summarise projects activities",
+ "description" : "System that gathers and summariess Software Engineering project activities", 
+ "stakeHolders" : {"number" : 2, "names" : "Coordinator, supervisor"},
+ "epics" : 
+{"number" : 4,
+ "names": "Collects data from tools, Analyse data, Generate Visual Summaryof Project's Data, Manage Projects",
+"emotionalGoals" : " Extensible, Efficient, Good visuals Intuitive, Up-to-date"},
+ "treeNodes" : "Collects data from communication tools,Collects data from process management tools,Collects data from version control system,Collects data from project documentation,analyse individual contribution data,analyse communication data,analyse Process data,analyse Product data,Generate Statistical Summary,Generate graphical Summary,View Project list,assign supervisors,Add configuration files to a project,View project's visual summary" 
+}

@@ -1,0 +1,10 @@
+{"modelId" : "5", "modelName" : "Retail/Hire Web application",
+ "goal" : "To manage online retail service",
+ "description" : "A online platform of shopping", 
+ "stakeHolders" : {"number" : 2, "names" : "Staff, Customer"},
+ "epics" : 
+{"number" : 2,
+ "names": "Package Management, Calendar functionality",
+"emotionalGoals" : " Readable, Understandable, Self learnable, Precise on number, Up to date, Easy-to-use"},
+ "treeNodes" : "Track stocks, sync from datatbase, Manage Equipment Packages, Manage Equipment Groups, Register, products for orders, Staff view schedule of avaliable packages, Customer view schedule of avaliable packages" 
+}
