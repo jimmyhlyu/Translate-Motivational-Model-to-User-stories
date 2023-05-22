@@ -1,0 +1,300 @@
+
+ Model: 0Model: "I got you!"
+ 
+Epic 1: Detect Intruder 
+Security manager:
+- As a security manager, I want the system to accurately detect any intrusion on the premises so that I can take appropriate measures to protect the owner's property.
+- As a security manager, I want the system to immediately notify me when it detects an intrusion, so that I can initiate the response process.
+
+Epic 2: Notify Stakeholder 
+Visitor: 
+- As a visitor, I want to feel safe and secure while on the premises, and I want to be promptly notified in case of an intrusion. 
+
+Police: 
+- As a police officer, I want to receive timely and accurate notifications when an intrusion is detected so that I can quickly respond to the situation.
+
+Place owner: 
+- As a place owner, I want the system to notify me immediately if an intrusion occurs, so that I can take appropriate action to protect my property.
+
+Epic 3: Response to Intrusion 
+Intruder: 
+- As an intruder, I want the system to accurately detect my presence so that I can be apprehended quickly and safely by the authorities.
+
+Security manager: 
+- As a security manager, I want the system to track the intruder's movements so that I can guide the police to their location.
+- As a security manager, I want the system to alert the police immediately so that they can respond as quickly as possible.
+
+Emotional goals: 
+- Accurate: The system should accurately detect any intrusion and provide accurate information about the location of the intruder.
+- Safe: The system should ensure the safety of all stakeholders and visitors by immediately notifying the appropriate parties when an intrusion occurs.
+- Timely: The system should provide timely notifications to all stakeholders, including visitors, police, and the place owner, so that they can respond quickly to any intrusion.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 1Model: Restaurant Review Web App
+Epic 1: View Reviews
+Guest:
+- As a guest, I want to view existing restaurant reviews, so I can make informed dining choices.
+- As a guest, I want to see the average rating of the restaurant, so I can quickly assess its quality.
+
+User:
+- As a user, I want to be able to view my own reviews, so I can keep track of my past experiences.
+- As a user, I want to be able to filter reviews by different criteria, such as rating or date.
+
+Emotional goals: Appealing, Engaging, Easy-to-use, Pleasant, Efficient, Responsive.
+
+Epic 2: Post Reviews
+Guest:
+- As a guest, I want to be able to post a review of a restaurant, so I can share my experience with others.
+- As a guest, I want to be able to rate the restaurant on different criteria, such as food quality or service.
+
+User: 
+- As a user, I want to be able to edit or delete my reviews, so I can make corrections or remove outdated information.
+- As a user, I want to receive notifications when someone replies to my review or comments on it.
+
+Emotional goals: Appealing, Engaging, Easy-to-use, Pleasant, Efficient, Reliable.
+
+Epic 3: Edit Reviews
+Guest:
+- As a guest, I want to be able to report inappropriate or fake reviews, so they can be removed from the platform.
+- As a guest, I want to be able to see the user's profile who posted the reviews.
+
+User: 
+- As a user, I want to be able to track how many people have viewed my reviews or clicks. 
+- As a user, I want to be able to customize my profile information, so I can showcase my preferences, experiences, and recommendations.
+
+Emotional goals: Appealing, Engaging, Easy-to-use, Pleasant, Efficient, Responsive.
+
+Epic 4: Search Reviews
+Guest: 
+- As a guest, I want to be able to search for reviews of a specific restaurant or cuisine, so I can find relevant information quickly.
+- As a guest, I want to see the location and contact details of the restaurant along with its reviews.
+
+User: 
+- As a user, I want to be able to save the reviews of restaurants for my future use.
+- As a user, I want to see other nearby popular restaurants when I am viewing any restaurant
+
+Emotional goals: Appealing, Engaging, Easy-to-use, Pleasant, Efficient, Enriching.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 2Model: Learning Algorithm Platform
+Epic 1: Solve the problems
+Students:
+- As a student, I want to be engaged in solving algorithmic problems, so I can feel challenged and accomplished.
+- As a non-coder, I¡¯d like the platform to be approachable, so I can learn more easily.
+- As a user, I prefer the platform to be user-friendly, so I can have a fun learning experience.
+
+Epic 2: Browse algorithms
+Students:
+- As a student, I want to browse through different algorithms, so I can choose a topic that interests me and have a practical learning experience.
+- As a user, I want the platform to be focused on algorithms, so I can easily find the resources I need.
+- As a user, I expect the platform to be fair and constructive, so I can learn and improve my technical skills.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 3Model: Workout Application
+
+Epic 1: Creating exercises
+Adminstrators:
+- As an admin, I want to create new exercises with details such as name, description, and difficulty level so that gym-goers can select them for their workout plans.
+
+Epic 2: Creating workout plans
+Gym-goers:
+- As a gym-goer, I want to be able to choose exercises from the available list and create my workout plans so that I can track my fitness goals.
+Adminstrators:
+- As an admin, I want to be able to add workout plans with a certain combination of exercises, sets, and reps, so that gym-goers can use them as a reference.
+
+Epic 3: Viewing exercises and workout plans
+Gym-goers:
+- As a gym-goer, I want to view detailed information about exercises and workout plans, such as their difficulty level and muscle group targeted, so that I can choose my exercises and plans according to my fitness level and goals.
+
+Epic 4: Saving exercises and workout plans
+Gym-goers:
+- As a gym-goer, I want to save my selected exercises and created workout plans so that I can access and modify them later and track my fitness progress.
+Adminstrators:
+- As an admin, I want the option to allow gym-goers to save their exercise and workout plans on the cloud, so that they can access them from any device.
+
+Epic 5: Publishing exercises and workout plans
+Adminstrators:
+- As an admin, I want to publish new exercises and workout plans after reviewing them to make sure they are appropriate and safe to use, so that gym-goers can benefit from a wide range of high-quality content.
+Gym-goers:
+- As a gym-goer, I want to be able to search for exercises and workout plans created by other users, view their ratings and reviews, and choose the most suitable ones for me so that I can have access to a variety of workout options. 
+
+Emotional goals: 
+- Robust: The application should be reliable, bug-free, and provide all necessary features.
+- Straightforward: Users should be able to easily navigate and use the app.
+- Informative: The application should provide detailed and accurate information about exercises and workout plans.
+- Organized: The application should be well-structured and designed to help users find what they need quickly and efficiently.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 4Model: Retail/Hire Web application
+
+Epic 1: Package Management
+Staff:
+- As a staff member, I want the system to show the list of all available packages, so that I can easily manage and update them.
+- As a staff member, I want the system to send me an alert when a package is running low, so that I can update the inventory.
+
+Customer:
+- As a customer, I want the system to display all available packages, so that I can choose the best one that suits my needs.
+- As a customer, I want the system to show the details of the packages, including prices and available dates, so that I can make an informed decision.
+
+Emotional Goals:
+- Readable: The package list should be displayed in an organized and easy-to-read format.
+- Understandable: The information about the packages should be clear and concise. 
+- Up-to-Date: The system should be updated in real-time, showing the most recent package information.
+
+Epic 2: Calendar functionality
+
+Staff:
+- As a staff member, I want the system to display a calendar that shows all upcoming bookings, so that I can keep track of our schedule.
+- As a staff member, I want to be able to block off certain dates and times on the calendar, so that customers cannot book during those times.
+
+Customer:
+- As a customer, I want the system to show me the available dates and times for booking, so that I can choose a convenient time for me.
+- As a customer, I want the system to confirm my booking and send me a reminder before my appointment.
+
+Emotional Goals:
+- Self-learnable: The calendar should be easy to use and intuitive for both staff and customers.
+- Precise on number: The system should accurately display the available booking times, so that customers can make appointments without confusion.
+- Easy-to-use: The booking process should be simple and straightforward for customers.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 5Model: Algorithms in Actions
+
+Epic 1: Study algorithm
+First-time student:
+- As a first-time student, I want the platform to be engaging and effective so that I can learn algorithms with fun.
+- As a first-time student, I want the platform to empower me so that I can understand complex algorithm concepts with ease.
+
+Other student:
+- As an experienced student, I want the platform to offer challenging exercises so that I can improve problem-solving skills.
+- As an experienced student, I want the platform to be effective in reviewing algorithm concepts so that I can prepare for exams.
+
+Professor:
+- As a professor, I want the platform to provide effective teaching materials so that students can learn algorithm concepts on their own.
+- As a professor, I want the platform to manage student performance so that I can monitor their progress.
+
+Epic 2: Recap Algorithm
+First-time student:
+- As a first-time student, I want the platform to have recap videos and quizzes so that I can review algorithm concepts.
+- As a first-time student, I want the platform to be fun and engaging so that I can stay motivated to keep learning.
+
+Other student:
+- As an experienced student, I want the platform to offer challenging recap exercises that test my understanding of algorithm concepts.
+- As an experienced student, I want the platform to be effective by providing instant feedback on my progress.
+
+Professor:
+- As a professor, I want the platform to provide recap materials that are easy to understand so that students can remember algorithm concepts easily.
+- As a professor, I want the platform to manage student recap progress so that I can identify areas that need improvement.
+
+Epic 3: Manage System
+First-time student:
+- As a first-time student, I want the platform to be easy to use, so that I don¡¯t get confused with the navigation.
+- As a first-time student, I want the platform to empower me by offering different learning modes and options to cater to my learning style.
+
+Other student:
+- As an experienced student, I want the platform to be organized and systematic, so that I can locate the exercises and materials easily.
+- As an experienced student, I want the platform to offer different modes of learning so that I can choose the most effective ones that suit my time and learning needs.
+
+Professor:
+- As a professor, I want the platform to be organized so that students can navigate through the materials easily.
+- As a professor, I want the platform to manage student performance so that I can identify areas of improvement and prepare effective feedback for students.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 6Model: Software Engineering Project Activity Summarizer
+Epic 1: Collects data from tools
+Coordinator:
+- As a coordinator, I want the system to collect data from all commonly used project management tools so that we don't have to gather data manually.
+- As a supervisor, I want the system to periodically collect project data from all tools so that we can remain informed about project activities.
+
+Epic 2: Analyze data
+Coordinator, supervisor:
+- As a coordinator, I want the system to analyze project data to identify trends and patterns so that we can support our team better.
+- As a supervisor, I want the system to use machine learning to identify risks, issues, and inefficiencies to support our project teams better.
+
+Epic 3: Generate visual summary of project data
+Coordinator:
+- As a coordinator, I want the system to present project data in an understandable and visually appealing manner so that we can quickly identify areas of concern and potential risks to our project timelines.
+- As a supervisor, I want the system to generate visual data summaries that are easy to share and review with all concerned parties.
+
+Epic 4: Manage projects
+Coordinator:
+- As a coordinator, I want the system to manage the software engineering project by creating tasks, monitoring status, and tracking progress so that the team can remain focused and efficient.
+- As a supervisor, I want the system to manage the software engineering project by generating reports, analyzing data, and providing insights to help us make important project decisions on time.
+
+Emotional Goals:
+- Extensible: Users want the system to be able to integrate new tools, update existing ones, and grow with our project needs.
+- Efficient: Users want the system to be fast, reliable, and deliver project summaries and insights in a timely manner.
+- Good visuals: Users want the system to provide visually appealing and easy-to-understand data summaries and reports.
+- Intuitive: Users want the system to be easy to learn and navigate with minimal training requirements.
+-Up-to-date: Users want the system to be current, reliable, and provide accurate project data summaries and insights all the time.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 7Model: Bird website
+Epic 1: Update Data
+Client:
+- As a birdwatcher, I want to be able to easily input new data about bird activities so that the website remains up-to-date.
+- As a user, I want to have a simple interface for updating bird activities, so that the process is convenient.
+
+Epic 2: View Website
+Website Viewer:
+- As a bird enthusiast, I want to be able to view the website on any device, so that it's convenient and accessible.
+- As a user, I want the website to be attractive and well-organized, so that I can quickly find the information I'm looking for.
+- As a curious birdwatcher, I want to be able to explore different areas of the website, so that I can deepen my knowledge about birds. 
+
+Note: The emotional goals are integrated into the user stories themselves.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 8Model: FriendShip tracker
+Epic 1: Account management
+User:
+- As a user, I want to be able to delete my account so that my personal information is erased from the system
+- As a user, I want to be able to backup my data so that I can restore it in case I need it later
+
+Admin:
+- As an admin, I want to ensure that user's data is permanently erased upon account deletion to maintain privacy
+
+Despair User:
+- As a despair user, I want to be able to easily delete my account to prevent potential harm to myself
+
+Emotional goals: Safe and reliable account management 
+
+Epic 2: Friendship tracking
+User: 
+- As a user, I want to be able to manage my friendships effectively by categorizing them into different groups
+- As a user, I want to be able to track the frequency of communication with my friends to ensure I am maintaining healthy relationships
+
+Admin:
+- As an admin, I want to provide resources and support for users to develop strong and healthy friendships
+
+Despair User:
+- As a despair user, I want to be able to easily access resources and tools to improve the quality of my relationships.
+
+Emotional goals: Focus and effective friendship management.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 9Model<Folder Manage> 
+Epic1: Upload Files
+Normal User:
+- As a normal user, I want to be able to upload my files to the folder efficiently, so that I can save time and complete the task quickly and easily. (Fast Easy)
+- As a normal user, I want to experience joy when uploading my files to the folder, so that I feel satisfied and happy with the process. (Joyful)
+- As a normal user, I want to feel relaxed when I upload my files to the folder, so that I don't feel stressed or overwhelmed by the task. (Relaxed)
+
+----------------------------------------------------------------------------------------------------------------------------------
+

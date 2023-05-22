@@ -1,0 +1,18 @@
+Create user stoires from this motivational model:
+
+Name of project: {modelName}
+Goal of project: {goal}
+StakeHolders: {namesStakeHolder}
+Epics: {namesEpic}
+emotional goals: {emotionalGoals}
+
+Organize your answer with following template:
+
+emotional goals should be inside the user stories. 
+
+Model<name> 
+Epic<number>:<name>
+<stakeholder>:
+    <list of users stories>
+    
+    

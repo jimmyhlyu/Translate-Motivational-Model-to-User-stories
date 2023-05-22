@@ -3,18 +3,9 @@ from PrivateKey import key
 import json
 import os
 import re
-import time
-
-
-start_time = time.time()
-
 
 openai.api_key = key
 
-dataList = []
-
-
-# Human sort 
 dataList = []
 
 
@@ -33,6 +24,7 @@ def natural_keys(text):
 
 filelist = os.listdir("Models/")
 filelist = sorted(filelist,key=natural_keys)
+
 
 for dataName in filelist:
     if(not dataName.endswith('.json')):
@@ -61,47 +53,8 @@ for data in dataList:
             'emotionalGoals' : data['epics']['emotionalGoals']\
             }
 
-   
-    prompt = user_input.format(**namespace)
-    print(f"Sending quest: {i}")
-    i += 1
-    response = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo-0301",
-        messages=[
-            {"role": "system", "content": "You are ChatGPT, a large language model trained by OpenAI. Answer as concisely as possible."},
-            {"role": "user", "content": "You are ChatGPT, a large language model trained by OpenAI. Answer as concisely as possible."},
-            {"role": "user", "content": f'{prompt}'},
-        ]
-    )    
-    
-    responses.append(response['choices'][0]['message']['content'])
 
-    
-    
 file_incre = 1
 while os.path.exists("result%s.txt" % file_incre):
     file_incre += 1
-    
-print("Writing result")
-with open('result%s.txt' % file_incre, 'w+') as w:
-    i = 1
-    for response in responses:
-        w.write(f'\n Model: {i} \n')
-        w.write(response)
-        w.write("\n\n----------------------------------------------------------------------------------------------------------------------------------\n\n")
-        i += 1
-    w.close()   
-print("Result in <result%s.txt>" % file_incre)
-
-with open('Prompt%s.txt' % file_incre, 'w+') as w:
-    w.write(user_input)
-    w.close()
-    
-    
-    
-print("Saving prompt to Prompt%s.txt" % file_incre)
-
-
-
-
-print("Runtime = --- %s seconds ---" % (time.time() - start_time))
+    print(file_incre)

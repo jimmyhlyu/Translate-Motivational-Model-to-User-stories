@@ -6,7 +6,25 @@ StakeHolders: {namesStakeHolder}
 Epics: {namesEpic}
 emotional goals: {emotionalGoals}
 
+Let's convert it step by step.
+
+1st: Think about the background of this model.
+2nd: Consider the motivational model as a tree and to generate a user story for each leaf.
+3rd: Think about the responsibilities of each stakeholder.
+
+User stories should be following these rules:
+1. As independent as possible
+2. Reporting any relevant details as much as possible
+3. Should provide value to end users
+4. Must be able to be estimated of relative size and effort
+5. Should be sufficiently granular, and not defined at a too high level
+6. Must be formulated in and effort to stress useful details for creating tests
+
 Each user stories should be organized as [As a <role> I can <capability with emotional goal>, so that <receive benefit>]
+
+Emotional goal is what stakeholders should feel when they perform a certain action. 
+Do not list out emotional goals separately, emotional goals should be in the sentence of the user story.
+
 
 Do not add anything else besides the following template.
 
@@ -17,28 +35,4 @@ Epic<number>:<name>
 <stakeholder>:
     <list of user stories>
     
-
-Let's convert it step by step.
-
-Firstly: Think about the background and the goal of the model.
-Secondly: Consider the motivational model as a tree and to generate a user story for each leaf.
-Thirdly: Think about the responsibilities of each stakeholder and their emotional goal in that user story.
-Finally: Organize the user stories with provided templete. 
-
-
-User stories should be following these rules:
-1. As independent as possible
-2. Reporting any relevant details as much as possible
-3. Should provide value to end users
-4. Must be able to be estimated of relative size and effort
-5. Should be sufficiently granular, and not defined at a too high level
-6. Must be formulated in and effort to stress useful details for creating tests
-
-
-Emotional goal is what stakeholders should feel when they perform a certain action. 
-
-Do not list out emotional goals separately, emotional goals should be in the sentence of the user story.
-
-
-
     

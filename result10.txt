@@ -1,0 +1,313 @@
+
+ Model: 1 
+Model: I got you!
+
+Background:
+The project aims to handle intruders and protect the owner's property by detecting intruders, notifying stakeholders, and responding to intrusions. The emotional goals include accurate, safe, and timely actions to achieve the project's objective.
+
+Epic 1: Detect Intruder
+Security Manager:
+- As a security manager, I can configure motion sensors to detect intruders accurately, so that I can receive real-time alerts.
+
+Visitor:
+- As a visitor, I can scan my unique QR code to identify myself and avoid triggering false alarms, so that I can gain access to the property safely.
+
+Epic 2: Notify Stakeholder
+Security Manager:
+- As a security manager, I can receive immediate intrusion notifications on my mobile device, so that I can take immediate action to protect the property.
+
+Police:
+- As the police officer, I can view real-time security footage of the intrusion on my device, so that I can respond promptly and appropriately.
+
+Epic 3: Response to Intrusion
+Security Manager:
+- As a security manager, I can remotely activate the barrier and siren to deter intruders, so that I can protect the property effectively.
+
+Place Owner:
+- As the place owner, I can grant remote access to the security manager to take actions when necessary, so that I can ensure the property's safety 24/7.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 2 
+Model: Restaurant Review Web App 
+Epic 1: View Reviews
+User:
+- As a guest, I can browse restaurant reviews by location and cuisine, so that I can find a restaurant to eat.
+- As a user, I can view restaurant reviews that I have posted, so that I can keep track of my reviews.
+- As a user, I can sort reviews by rating and date, so that I can quickly find the best reviews.
+
+
+Epic 2: Post Reviews
+User:
+- As a guest, I can sign up for the app and log in, so that I can post restaurant reviews.
+- As a user, I can add a new restaurant review, including photos and tags, so that I can share my experience with others.
+- As a user, I can see my review history and statistics, such as total reviews and average rating, so that I can measure my contribution to the community.
+
+
+Epic 3: Edit Reviews
+User:
+- As a user, I can edit my own restaurant reviews if I make a mistake or change my mind, so that I can maintain the accuracy and validity of the reviews.
+- As a user, I can delete my own restaurant reviews if I want to remove them permanently, so that I can have control over my own postings.
+
+
+Epic 4: Search Reviews
+User:
+- As a guest, I can search for restaurant reviews by keyword and location, so that I can easily find what I am looking for.
+- As a user, I can save my favorite restaurant reviews and create a personal list, so that I can save time and effort on repeated searches.
+- As a user, I can use advanced search filters, such as price range and ambiance, so that I can narrow down the results to my preferences.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 3 
+Model: Learning Algorithm Platform 
+
+Epic 1: Solve the problems 
+
+Students: 
+- As a student, I can log in to the Learning Algorithm Platform, so that I can access the problem-solving section and start practicing algorithms. (Fun, User-friendly)
+- As a student, I can track my progress, so that I can evaluate my improvement and challenge myself to improve further. (Practical, Challenged)
+- As a student, I can ask or answer questions and receive feedback, so that I feel engaged and encouraged to participate in the community and help others. (Engaged, Accomplished)
+
+Epic 2: Browse algorithms
+
+Students:
+- As a student, I can search for specific algorithms based on their titles or categories, so that I can easily find the appropriate algorithm and learn more efficiently. (Approachable to non-coders, Practical)
+- As a student, I can preview the articles and tutorials on the algorithms, so that I can decide whether to learn this algorithm or not. (Focused, User-friendly)
+- As a student, I can give a rating to the algorithm articles and tutorials, so that it reflects the quality and fairness of the content. (Fair Constructive)
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 4 
+Model: Workout Application
+Goal: People can use this application to construct their workout plan
+Stakeholders: Administrators, Gym-goers
+Epics: 
+1. Creating exercises
+2. Creating workout plans
+3. Viewing exercises and workout plans
+4. Saving exercises and workout plans
+5. Publishing exercises and workout plans
+Emotional goals: Robust, Straightforward, Informative, Organized
+
+
+Epic 1: Creating exercises
+Administrators:
+- As an administrator, I can add new exercises with instructional images, so that users can properly execute them and get visual help for their workout plan.
+- As an administrator, I can edit exercises with instructional images, so that users can make use of updated exercises.
+
+Gym-goers:
+- As a gym-goer, I can search for exercises based on muscles targeted or equipment used, so that I can find exercises that match my fitness level and goals.
+- As a gym-goer, I can track and record my progress with each exercise, so that I can keep track of my improvement over time.
+
+
+Epic 2: Creating workout plans
+Administrators:
+- As an administrator, I can create new workout plans by selecting a set of pre-defined exercises, so that users can quickly create a workout plan.
+- As an administrator, I can customize workout plans by adjusting or removing exercises, so that users can have a more personalized workout plan.
+
+Gym-goers:
+- As a gym-goer, I can select from a list of pre-designed workout plans, so that I can have a starting point for my workout plan.
+- As a gym-goer, I can create my own workout plan by selecting exercises from the available options, so that I can tailor my workout to my individual needs.
+
+
+Epic 3: Viewing exercises and workout plans
+Administrators:
+- As an administrator, I can view a list of all exercises and workout plans, so that I can make sure they are organized and up-to-date.
+
+Gym-goers:
+- As a gym-goer, I can view a list of all available exercises, so that I can pick exercises that match my fitness levels and goals.
+- As a gym-goer, I can view a list of all available workout plans, so that I can pick workout plans that match my fitness levels and goals.
+
+
+Epic 4: Saving exercises and workout plans
+Administrators:
+- As an administrator, I can delete exercises and workout plans, so that the list stays organized and current.
+
+Gym-goers:
+- As a gym-goer, I can save a list of my favorite exercises or workout plans, so that I can easily access them in the future.
+
+
+Epic 5: Publishing exercises and workout plans
+Administrators:
+- As an administrator, I can publish new exercises and workout plans, so that users can see the latest content on the application.
+
+Gym-goers:
+- As a gym-goer, I can share my favorite exercises or workout plans with others, so that my friends or family members can see what I am doing and get inspired.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 5 
+Model: Retail/Hire Web application
+Epic 1: Package Management
+Staff:
+- As a warehouse staff, I can scan and assign tracking numbers to packages, so that I can ensure accurate and up-to-date tracking information for customers and increase their trust in our service.
+- As a delivery driver, I can update package status in real-time on the calendar, so that I can easily manage my delivery schedule and provide accurate delivery times to customers.
+Customer:
+- As a customer, I can view my package tracking information in real-time, so that I can stay informed about my package delivery and feel at ease about my purchase.
+- As a customer, I can receive notifications about package status updates, so that I can plan for the arrival of my package and feel confident that my package is being properly managed.
+
+Epic 2: Calendar functionality
+Staff:
+- As a warehouse manager, I can schedule package deliveries on the calendar, so that I can ensure timely and efficient delivery of packages to customers.
+- As a delivery driver, I can view my delivery schedule for the day on the calendar, so that I can manage my time effectively and make sure all packages are delivered on time.
+Customer:
+- As a customer, I can select a preferred delivery time slot on the calendar, so that I can plan for the arrival of my package and feel more in control of my purchase.
+- As a customer, I can reschedule my delivery on the calendar, so that I can adjust to any unexpected changes in my schedule and receive my package at a more convenient time.
+
+Emotional goals: customers should feel informed and satisfied with their purchase, staff should feel organized and in control of their workload.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 6 
+Model: Algorithms in Actions 
+
+Background: The goal of this project is to create an online learning platform for students to study algorithm, recap algorithm, manage system, and feel fun, effective, empowering, engaging, challenged, and effective. 
+
+Epic 1: Study Algorithm 
+First-time student: 
+- As a first-time student, I can access easy-to-understand visual resources on algorithm, so that I feel engaged and empowered throughout my study. 
+- As a first-time student, I can ask the professor questions related to algorithm in a discussion board, so that I feel challenged and effective in my learning. 
+
+Other student: 
+- As an other student, I can browse other students' public notes on algorithm and share my notes, so that I feel engaged and empowered in collaborating with other students. 
+- As an other student, I can rate and review the resources on algorithm, so that I feel effective in contributing to the improvement of the platform. 
+
+Professor: 
+- As a professor, I can upload and organize teaching materials on algorithm, so that students feel engaged and empowered in their learning and I feel effective in delivering the content. 
+- As a professor, I can track students' progress and give timely feedback on their performance on algorithm-related exercises, so that students feel challenged and effective in their learning. 
+
+Epic 2: Recap Algorithm 
+First-time student: 
+- As a first-time student, I can review the previously studied algorithm-related topics in a summarized form, so that I feel engaged and challenged in reinforcing my knowledge. 
+- As a first-time student, I can share my questions and thoughts related to algorithm with my peers in a group project, so that I feel effective and engaging in applying my knowledge. 
+
+Other student: 
+- As an other student, I can collaborate with my peers in a group project that focuses on reinforcing our knowledge of algorithm, so that I feel engaged and empowered in sharing my knowledge. 
+- As an other student, I can browse and search for previously studied algorithm-related topics to further deepen my understanding, so that I feel empowered and challenged in my learning. 
+
+Professor: 
+- As a professor, I can assign group projects that require students to apply and summarize the previously studied algorithm-related topics, so that students feel engaged and effective in their learning. 
+- As a professor, I can provide feedback on the quality of the group projects and follow up with additional teaching materials to reinforce the previous knowledge of algorithm, so that students feel challenged and effective in their learning. 
+
+Epic 3: Manage System 
+First-time student: 
+- As a first-time student, I can access the platform with personalized learning paths, so that I feel engaged and empowered in customizing my learning journey. 
+- As a first-time student, I can track my progress in algorithm-related topics and receive personalized recommendations on further study, so that I feel effective and challenged in my learning. 
+
+Other student: 
+- As an other student, I can set up a study group with my peers, schedule study sessions, and keep track of my study progress on algorithm-related topics, so that I feel empowered and challenged in collaborating with other students. 
+- As an other student, I can customize the platform layout and settings according to my preferences, so that I feel engaged and effective in my learning process. 
+
+Professor: 
+- As a professor, I can monitor students' study progress and adjust the teaching materials and quizzes on algorithm according to students' learning status, so that students feel challenged and empowered in their learning. 
+- As a professor, I can provide technical support and guidance to the students when they encounter problems with using the platform, so that students feel effective and engaging in their learning.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 7 
+Model: System that gathers and summarises Software Engineering project activities
+Goal: Gather and summarise project activities
+Stakeholders: Coordinator, Supervisor
+
+Epic 1: Collects data from tools
+Coordinator:
+- As a Coordinator, I can connect the system to the necessary software engineering tools, so that the necessary project data can be collected and summarised efficiently and without manual input.
+- As a Coordinator, I can configure the tools to collect the relevant data, so that the system can automatically gather and summarise the project¡¯s data with minimal human intervention.
+
+Supervisor:
+- As a Supervisor, I can monitor the tools and data collection process, so that I can ensure that the data collected is accurate and relevant.
+
+Epic 2: Analyse data
+Coordinator:
+- As a Coordinator, I can define the required data quality criteria, so that the system only processes high-quality data.
+- As a Coordinator, I can define the data processing rules, so that the system can analyse the project data to generate meaningful information.
+
+Supervisor:
+- As a Supervisor, I can access the system's analysis reports, so that I can monitor the project's progress and identify areas needing attention.
+
+Epic 3: Generate Visual Summary of Project's Data
+Coordinator:
+- As a Coordinator, I can configure the system's dashboard to display the visual summary of the project's data, so that stakeholders can easily access the important information.
+- As a Coordinator, I can design the system's visualisations to be intuitive and easy to understand, so that the stakeholders can comprehend the project's status effectively.
+
+Supervisor:
+- As a Supervisor, I can quickly access the system's visual summary to understand the project's status and progress at a glance, so that I can make effective decisions efficiently.
+
+Epic 4: Manage Projects
+Coordinator:
+- As a Coordinator, I can create and manage multiple projects in the system, so that the stakeholders can monitor the progress of different projects in one place.
+- As a Coordinator, I can access the project's activities logs, so that I can view any changes made to the project and who made them.
+
+Supervisor:
+- As a Supervisor, I can review the project's activities logs, so that I can monitor the project's progress and ensure any changes made are appropriate.
+
+Emotional Goals:
+- Coordinator: Extensible, Efficient, Up-to-date
+- Supervisor: Good visuals, Intuitive
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 8 
+Model: Bird website
+Epic 1: Update new data
+Client:
+- As a client, I can add new bird sightings to the website, so that the data is always up-to-date and the website remains attractive.
+- As a client, I can edit bird sighting data, so that the website remains accurate and well-oriented.
+- As a client, I can delete outdated bird sightings, so that the website remains credible and well-organized.
+
+Epic 2: View the website
+Website Viewer:
+- As a website viewer, I can filter bird sightings by location, time, or species, so that I can easily find the information I am looking for.
+- As a website viewer, I can view bird sighting data in various formats, such as tables or maps, so that I can explore the data in a convenient and curious way.
+- As a website viewer, I can leave comments or ratings on bird sighting data, so that I can contribute my knowledge and enrich the community of bird enthusiasts.
+- As a website viewer, I can sign up for newsletters or notifications about new bird sightings, so that I can keep up-to-date with the latest bird activities.
+
+Stakeholder responsibilities:
+- The client is responsible for maintaining and updating the data on the website.
+- The website viewers are responsible for engaging with the website and contributing to the community by sharing knowledge and providing feedback.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 9 
+Model: FriendShip Tracker
+
+Epic 1: User Account Management
+User:
+- As a user, I can delete my account which will erase all my data, so that my information is secure.
+- As a user, I can backup my data, so that I don't lose any important information.
+
+Epic 2: Friendship Management
+User:
+- As a user, I can manage my list of friends effectively, so that I can track my friendships better.
+- As a user, I can track my friends, so that I can know when to check up on them.
+
+Epic 3: System Management
+Admin:
+- As an admin, I can operate the system efficiently, so that it works reliably for all users.
+
+Despair User:
+- As a despair user, I can rely on the system being available, so that I can access my data and find comfort.
+- As a despair user, I can focus on util, so that it's easier for me to use the system.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+ Model: 10 
+Model: Folder manage
+Epic 1: Upload Files and Folders
+Normal User:
+- As a user, I can drag and drop files and folders into the application so that I feel relaxed and avoid the hassle of browsing my files.
+- As a user, I can choose to upload multiple files at once so that I save time and feel joyful.
+- As a user, I can rename a file/folder before uploading it so that I can easily find it later and feel organized.
+- As a user, I can see the status of my uploads, such as completed or in-progress, so that I can be assured that my files are safe and feel calm.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
